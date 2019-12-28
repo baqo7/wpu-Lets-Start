@@ -4,6 +4,7 @@ RENCANA KONTEN
     *ES
     *Tambah baru
       ^View
+      ^React
 - Fundamental struktur dasar
 - PHP frame work
    ^Laravel
