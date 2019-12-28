@@ -3,7 +3,10 @@ RENCANA KONTEN
 - Javascript
     *ES
     *Tambah baru
+      ^View
 - Fundamental struktur dasar
 - PHP frame work
+   ^Laravel
 - Interview
 - vlog
+- Python
