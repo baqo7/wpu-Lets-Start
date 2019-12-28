@@ -2,3 +2,5 @@ WPU RESOLUSI
 -Latihan untuk membuat web
 -membuat platform pengelolaan video
 -membuat forum
+-Menambahkan Merch shop
+-Nambah
