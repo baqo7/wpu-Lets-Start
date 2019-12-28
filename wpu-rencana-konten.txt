@@ -3,6 +3,7 @@ RENCANA KONTEN
 - Javascript
     *ES
     *Tambah baru
+- Fundamental struktur dasar
 - PHP frame work
 - Interview
 - vlog
