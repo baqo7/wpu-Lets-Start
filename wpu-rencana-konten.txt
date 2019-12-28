@@ -1,6 +1,8 @@
 RENCANA KONTEN
 
 - Javascript
+    *ES
+    *Tambah baru
 - PHP frame work
 - Interview
 - vlog
